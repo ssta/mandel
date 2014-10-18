@@ -1,0 +1,5 @@
+from http://rosettacode.org/wiki/Mandelbrot_set#Python
+
+I kinda like how small the implementation is in Python...
+
+Be warned, the output looks crap if not viewed in a wide terminal!
