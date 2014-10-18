@@ -1,0 +1,6 @@
+From http://rosettacode.org/wiki/Mandelbrot_set#PHP
+
+Run and redirect output into foo.png since it spits out the data to stdout
+
+	./Mandelbrot.php > output.png
+
