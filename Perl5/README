@@ -1,0 +1,5 @@
+From http://rosettacode.org/wiki/Mandelbrot_set#Perl
+
+VERY simple.  No attempt to do more than show 'pixels' 
+    inside the set, nothing fancy
+
